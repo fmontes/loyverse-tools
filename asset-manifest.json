@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loyverse-tools/static/css/main.33c57d20.chunk.css",
+    "main.js": "/loyverse-tools/static/js/main.c44d814b.chunk.js",
+    "main.js.map": "/loyverse-tools/static/js/main.c44d814b.chunk.js.map",
+    "runtime-main.js": "/loyverse-tools/static/js/runtime-main.11fd4600.js",
+    "runtime-main.js.map": "/loyverse-tools/static/js/runtime-main.11fd4600.js.map",
+    "static/js/2.e0d3d9a5.chunk.js": "/loyverse-tools/static/js/2.e0d3d9a5.chunk.js",
+    "static/js/2.e0d3d9a5.chunk.js.map": "/loyverse-tools/static/js/2.e0d3d9a5.chunk.js.map",
+    "index.html": "/loyverse-tools/index.html",
+    "precache-manifest.fb90c8b279be3ce6c6462e834d531b3c.js": "/loyverse-tools/precache-manifest.fb90c8b279be3ce6c6462e834d531b3c.js",
+    "service-worker.js": "/loyverse-tools/service-worker.js",
+    "static/css/main.33c57d20.chunk.css.map": "/loyverse-tools/static/css/main.33c57d20.chunk.css.map",
+    "static/js/2.e0d3d9a5.chunk.js.LICENSE": "/loyverse-tools/static/js/2.e0d3d9a5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11fd4600.js",
+    "static/js/2.e0d3d9a5.chunk.js",
+    "static/css/main.33c57d20.chunk.css",
+    "static/js/main.c44d814b.chunk.js"
+  ]
+}
