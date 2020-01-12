@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/loyverse-tools/static/css/main.33c57d20.chunk.css",
-    "main.js": "/loyverse-tools/static/js/main.c44d814b.chunk.js",
-    "main.js.map": "/loyverse-tools/static/js/main.c44d814b.chunk.js.map",
+    "main.js": "/loyverse-tools/static/js/main.1a8bf1ac.chunk.js",
+    "main.js.map": "/loyverse-tools/static/js/main.1a8bf1ac.chunk.js.map",
     "runtime-main.js": "/loyverse-tools/static/js/runtime-main.11fd4600.js",
     "runtime-main.js.map": "/loyverse-tools/static/js/runtime-main.11fd4600.js.map",
     "static/js/2.e0d3d9a5.chunk.js": "/loyverse-tools/static/js/2.e0d3d9a5.chunk.js",
     "static/js/2.e0d3d9a5.chunk.js.map": "/loyverse-tools/static/js/2.e0d3d9a5.chunk.js.map",
     "index.html": "/loyverse-tools/index.html",
-    "precache-manifest.ef43dec03a6f5585765f6b609dc7ea66.js": "/loyverse-tools/precache-manifest.ef43dec03a6f5585765f6b609dc7ea66.js",
+    "precache-manifest.ec5e1dcb9dd1e01cd061657c29395d8c.js": "/loyverse-tools/precache-manifest.ec5e1dcb9dd1e01cd061657c29395d8c.js",
     "service-worker.js": "/loyverse-tools/service-worker.js",
     "static/css/main.33c57d20.chunk.css.map": "/loyverse-tools/static/css/main.33c57d20.chunk.css.map",
     "static/js/2.e0d3d9a5.chunk.js.LICENSE": "/loyverse-tools/static/js/2.e0d3d9a5.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.11fd4600.js",
     "static/js/2.e0d3d9a5.chunk.js",
     "static/css/main.33c57d20.chunk.css",
-    "static/js/main.c44d814b.chunk.js"
+    "static/js/main.1a8bf1ac.chunk.js"
   ]
 }
