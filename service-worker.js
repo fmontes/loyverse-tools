@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loyverse-tools/precache-manifest.fb90c8b279be3ce6c6462e834d531b3c.js"
+  "/loyverse-tools/precache-manifest.ef43dec03a6f5585765f6b609dc7ea66.js"
 );
 
 self.addEventListener('message', (event) => {

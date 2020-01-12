@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "854f51d02f2f882d43e9ed37ffe41b1c",
+    "revision": "8fa930b1bab8c323fe88962409ef7d51",
     "url": "/loyverse-tools/index.html"
   },
   {
