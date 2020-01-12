@@ -39,7 +39,8 @@ function work(target) {
                     return {
                         name: item['Nombre'],
                         qty: parseInt(item['En inventario [Smile]']),
-                        supplier: item['Proveedor']
+                        supplier: item['Proveedor'],
+                        barcode: item['Codigo de barras']
                     };
                 })
                 .sort(function(itemA, itemB) {
@@ -56,6 +57,10 @@ function App() {
     const columns = React.useMemo(
         () => [
             {
+                Header: 'Codigo de barras',
+                accessor: 'barcode'
+            },
+            {
                 Header: 'Nombre',
                 accessor: 'name'
             },
@@ -66,6 +71,10 @@ function App() {
             {
                 Header: 'Proveedor',
                 accessor: 'supplier'
+            },
+            {
+                Header: 'Acciones',
+                accessor: 'actions'
             }
         ],
         []

@@ -33,7 +33,20 @@ function Table({ columns, data }) {
                     prepareRow(row);
                     return (
                         <tr {...row.getRowProps()}>
-                            {row.cells.map(cell => {
+                            {row.cells.map((cell, i) => {
+                                if (cell.column.id === 'actions') {
+                                    return (
+                                        <td {...cell.getCellProps()}>
+                                            <a
+                                                href={`https://r.loyverse.com/dashboard/#/goods/itemhistory?page=0&limit=100&periodName=month&periodLength=1m&arg=-1&from=1578290400000&to=1578895140000&wareId=27706807&wareName=${cell.row.original.name}&outletsIds=814446&merchantsIds=all&reasons=all`}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                            >
+                                                Historia
+                                            </a>
+                                        </td>
+                                    );
+                                }
                                 return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>;
                             })}
                         </tr>
